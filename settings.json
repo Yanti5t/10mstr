@@ -1,9 +1,9 @@
 {
-    "self_mode": false,
-	"autobio": false,
+    "self_mode": true,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": true,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
